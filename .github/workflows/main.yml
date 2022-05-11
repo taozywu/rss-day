@@ -1,7 +1,7 @@
 name: rss-day
 on:
   schedule:
-    - cron:  '0 15 * * *'    # 国际标准时间22点（北京时间23点发） 
+    - cron:  '0 01 * * *'    # 国际标准时间22点（北京时间9点发） 
   push:
     branches:    
       - main

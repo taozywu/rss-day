@@ -1,9 +1,9 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 1  Date: 2022-05-12 10:52:47 <br/>
+Rss num: 1  Date: 2022-05-13 11:16:17 <br/>
 
-<a href='http://zhuanlan.zhihu.com/p/25744274?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>我们能够从苹果的文案中学到什么？</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1652402398.A.561.html'>[正妹] 蠻喜歡這樣的下盤</a><br/>
 
 
 <邮件内容区结束

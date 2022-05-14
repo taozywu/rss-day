@@ -1,9 +1,8 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 1  Date: 2022-05-13 11:16:17 <br/>
+Rss num: 0  Date: 2022-05-14 11:24:22 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1652402398.A.561.html'>[正妹] 蠻喜歡這樣的下盤</a><br/>
 
 
 <邮件内容区结束

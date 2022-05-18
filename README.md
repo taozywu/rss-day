@@ -1,12 +1,10 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 4  Date: 2022-05-17 11:00:43 <br/>
+Rss num: 2  Date: 2022-05-18 10:55:24 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1652755543.A.FB8.html'>[正妹] 年輕時期的Marisa Tomei</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1652752616.A.82A.html'>[正妹] 放桌上</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1652749139.A.DEC.html'>[正妹] A for Amber, H for...</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1652747786.A.BE4.html'>[新聞] IU低調捐款慶生！寵粉無極限戴「粉色假</a><br/>
+<a href='http://zhuanlan.zhihu.com/p/516037009?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>数据拾遗：美债拍卖数据【2】</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1652839648.A.7E3.html'>[正妹] 金賽綸</a><br/>
 
 
 <邮件内容区结束

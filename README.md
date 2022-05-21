@@ -1,10 +1,8 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 2  Date: 2022-05-20 10:52:16 <br/>
+Rss num: 0  Date: 2022-05-21 10:20:10 <br/>
 
-<a href='https://movie.douban.com/review/14406911/'>vol.1  《婚姻生活》第一幕：无知和慌乱 (评论: 婚姻生活)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653011115.A.F9E.html'>[正妹] 報告班長</a><br/>
 
 
 <邮件内容区结束

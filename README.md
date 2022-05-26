@@ -1,10 +1,10 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-05-25 10:58:15 <br/>
+Rss num: 0  Date: 2022-05-26 11:02:14 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653445743.A.E98.html'>[正妹] OP了</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653445395.A.F63.html'>[正妹] 檳榔西施芽芽</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1653531664.A.099.html'>[正妹] Angela White 紅色比基尼</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1653528524.A.1A2.html'>[正妹] 大盜藏不助</a><br/>
 
 
 <邮件内容区结束

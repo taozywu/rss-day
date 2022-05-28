@@ -1,11 +1,13 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-05-27 11:04:27 <br/>
+Rss num: 0  Date: 2022-05-28 10:45:30 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653612151.A.C0E.html'>[神人] 汐止建案廣告女主人</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653611750.A.729.html'>Re: [正妹] 台啤小調啤</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653611106.A.C63.html'>[正妹] Tessa Fowler</a><br/>
+<a href='https://movie.douban.com/review/14423127/'>烂剧，啥年代了还这么狗血？ (评论: 二进制恋爱)</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1653704274.A.C18.html'>[正妹] 久慈曉子</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1653704130.A.B0B.html'>[正妹] 大大的笑容</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1653702826.A.6F9.html'>[正妹] 排球女孩</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1653701884.A.183.html'>[正妹] 西田麻衣</a><br/>
 
 
 <邮件内容区结束

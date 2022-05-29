@@ -1,13 +1,13 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-05-28 10:45:30 <br/>
+Rss num: 0  Date: 2022-05-29 11:06:26 <br/>
 
-<a href='https://movie.douban.com/review/14423127/'>烂剧，啥年代了还这么狗血？ (评论: 二进制恋爱)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653704274.A.C18.html'>[正妹] 久慈曉子</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653704130.A.B0B.html'>[正妹] 大大的笑容</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653702826.A.6F9.html'>[正妹] 排球女孩</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653701884.A.183.html'>[正妹] 西田麻衣</a><br/>
+<a href='https://movie.douban.com/review/14424800/'>上半季（第1-7集）剧评 & 细节汇总 (评论: 怪奇物语 第四季)</a><br/>
+<a href='https://movie.douban.com/review/14424798/'>论我为什么成为《警察荣誉》的自来水 (评论: 警察荣誉)</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1653791020.A.543.html'>[神人] 補給飲料廣告</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1653789113.A.C41.html'>[正妹] 謙謙</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1653785331.A.3B9.html'>[帥哥] 孫錫求（孫錫久）</a><br/>
 
 
 <邮件内容区结束

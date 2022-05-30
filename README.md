@@ -1,13 +1,10 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-05-29 11:06:26 <br/>
+Rss num: 0  Date: 2022-05-30 11:08:07 <br/>
 
-<a href='https://movie.douban.com/review/14424800/'>上半季（第1-7集）剧评 & 细节汇总 (评论: 怪奇物语 第四季)</a><br/>
-<a href='https://movie.douban.com/review/14424798/'>论我为什么成为《警察荣誉》的自来水 (评论: 警察荣誉)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653791020.A.543.html'>[神人] 補給飲料廣告</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653789113.A.C41.html'>[正妹] 謙謙</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653785331.A.3B9.html'>[帥哥] 孫錫求（孫錫久）</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1653877000.A.DD5.html'>[神人] 路上看到的廣告招牌</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1653875978.A.DFE.html'>[正妹] 常穿藍色</a><br/>
 
 
 <邮件内容区结束

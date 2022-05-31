@@ -1,10 +1,9 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-05-30 11:08:07 <br/>
+Rss num: 0  Date: 2022-05-31 11:00:07 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653877000.A.DD5.html'>[神人] 路上看到的廣告招牌</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1653875978.A.DFE.html'>[正妹] 常穿藍色</a><br/>
+<a href='http://www.zhihu.com/question/455707897/answer/2506929425?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>如何评价 galgame《forest》？</a><br/>
 
 
 <邮件内容区结束

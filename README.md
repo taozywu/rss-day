@@ -1,12 +1,9 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-03 10:51:13 <br/>
+Rss num: 0  Date: 2022-06-04 10:46:31 <br/>
 
-<a href='https://movie.douban.com/review/14434527/'>说说白愁飞 (评论: 说英雄谁是英雄)</a><br/>
-<a href='https://movie.douban.com/review/14434523/'>旧梦重温等于噩梦 (评论: 新围棋少年)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654223996.A.5FB.html'>[正妹] 只有一張</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654222685.A.22F.html'>[神人] 金光護體</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654309358.A.C0C.html'>神一位制服外拍模特</a><br/>
 
 
 <邮件内容区结束

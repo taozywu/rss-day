@@ -1,11 +1,11 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-05 10:49:52 <br/>
+Rss num: 0  Date: 2022-06-06 10:56:03 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654396773.A.F31.html'>[正妹] 郭靜</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654395551.A.2BB.html'>[正妹] 台灣  髮濕</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654389476.A.D19.html'>[正妹] Anna 德國女孩</a><br/>
+<a href='http://zhuanlan.zhihu.com/p/514448455?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>一些AI系统的技术随思</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654484074.A.3B3.html'>[正妹] 乃木坂五期生 一張 選誰</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654482383.A.2FF.html'>[正妹] 打保↑齡↓球</a><br/>
 
 
 <邮件内容区结束

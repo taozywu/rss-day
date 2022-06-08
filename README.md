@@ -1,9 +1,16 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-07 10:56:26 <br/>
+Rss num: 0  Date: 2022-06-08 10:58:44 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654569420.A.66C.html'>[正妹] 音樂創作者</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654656652.A.368.html'>[正妹] 第一個上太空的墨西哥妹子</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654655938.A.DF3.html'>[正妹] 三顆椰子</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654655253.A.45C.html'>[正妹] 有點東西</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654655064.A.FF2.html'>[正妹] 印尼媽媽</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654652622.A.DA0.html'>[正妹] Havanna Winter 美國女孩</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654652542.A.170.html'>[正妹] 微肉</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654651164.A.EF9.html'>[正妹] 肉特</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654648190.A.D94.html'>[神人] 動力火車演唱會上提琴手</a><br/>
 
 
 <邮件内容区结束

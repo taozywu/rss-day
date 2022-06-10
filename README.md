@@ -1,12 +1,12 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-09 10:58:56 <br/>
+Rss num: 0  Date: 2022-06-10 10:57:47 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654743358.A.65E.html'>[正妹] 南韓</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654742763.A.8D7.html'>[正妹] 南韓</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654742412.A.6FD.html'>[正妹] 南韓</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654741895.A.AED.html'>[正妹] Kyla Yesenosky</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654828714.A.678.html'>[正妹] Nadia Germanova 俄羅斯模特兒</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654827193.A.05F.html'>[正妹]  台灣  人妻</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654823374.A.B52.html'>[正妹] 棕髮 高挑</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654822036.A.400.html'>[正妹] 大奶赤鬼</a><br/>
 
 
 <邮件内容区结束

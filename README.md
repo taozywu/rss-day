@@ -1,10 +1,11 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-11 10:55:47 <br/>
+Rss num: 0  Date: 2022-06-12 11:03:01 <br/>
 
-<a href='https://movie.douban.com/review/14449415/'>《梦华录》，能不能不要崩？ (评论: 梦华录)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654911516.A.FCA.html'>[正妹] 活力四射的啦啦隊員</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654997390.A.236.html'>[正妹] #ババババンビ 水湊みお</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654996618.A.61D.html'>[正妹] #ババババンビ 岸みゆ</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1654996239.A.61D.html'>[正妹] #ババババンビ 吉沢朱音</a><br/>
 
 
 <邮件内容区结束

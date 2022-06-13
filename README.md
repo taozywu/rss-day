@@ -1,11 +1,10 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-12 11:03:01 <br/>
+Rss num: 0  Date: 2022-06-13 11:06:12 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654997390.A.236.html'>[正妹] #ババババンビ 水湊みお</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654996618.A.61D.html'>[正妹] #ババババンビ 岸みゆ</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1654996239.A.61D.html'>[正妹] #ババババンビ 吉沢朱音</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1655085989.A.864.html'>[正妹] 看青</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1655080039.A.235.html'>[神人] 這是哪個歌手啊??</a><br/>
 
 
 <邮件内容区结束

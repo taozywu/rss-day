@@ -1,10 +1,11 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-13 11:06:12 <br/>
+Rss num: 0  Date: 2022-06-14 11:13:38 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1655085989.A.864.html'>[正妹] 看青</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1655080039.A.235.html'>[神人] 這是哪個歌手啊??</a><br/>
+<a href='https://movie.douban.com/review/14454603/'>梦华录，全女性班底下的赤诚之心 (评论: 梦华录)</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1655175487.A.D93.html'>[正妹] Zoom in</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1655174116.A.416.html'>[帥哥] 這男生年輕時期 有女生擋得住嗎？</a><br/>
 
 
 <邮件内容区结束

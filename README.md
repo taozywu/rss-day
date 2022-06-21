@@ -1,9 +1,10 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-20 10:53:58 <br/>
+Rss num: 0  Date: 2022-06-21 11:05:57 <br/>
 
-<a href='https://movie.douban.com/review/14464817/'>一切美好的白日梦都是人生必需 (评论: 热带鱼)</a><br/>
+<a href='https://movie.douban.com/review/14467260/'>豆瓣9.8分顶级神综，近32年来只此一部 (评论: 艺术创想)</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1655779202.A.920.html'>[正妹] 極品熟女</a><br/>
 
 
 <邮件内容区结束

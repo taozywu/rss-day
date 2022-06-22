@@ -1,10 +1,10 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-21 11:05:57 <br/>
+Rss num: 0  Date: 2022-06-22 11:06:06 <br/>
 
-<a href='https://movie.douban.com/review/14467260/'>豆瓣9.8分顶级神综，近32年来只此一部 (评论: 艺术创想)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1655779202.A.920.html'>[正妹] 極品熟女</a><br/>
+<a href='http://www.zhihu.com/question/296211541/answer/2537917985?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>钱学森明明是造导弹的，但为什么很多人都觉得钱学森造原子弹的？</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1655859584.A.027.html'>[正妹] 但是肉肉的比冰淇淋我最喜歡</a><br/>
 
 
 <邮件内容区结束

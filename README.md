@@ -1,10 +1,12 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-22 11:06:06 <br/>
+Rss num: 0  Date: 2022-06-23 11:08:29 <br/>
 
-<a href='http://www.zhihu.com/question/296211541/answer/2537917985?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>钱学森明明是造导弹的，但为什么很多人都觉得钱学森造原子弹的？</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1655859584.A.027.html'>[正妹] 但是肉肉的比冰淇淋我最喜歡</a><br/>
+<a href='http://www.zhihu.com/question/419176329/answer/2532184792?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>孩子在班级各种期末评优都没中，做父母的该怎么看？</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1655953219.A.426.html'>[正妹] Tropical Babe</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1655951539.A.79C.html'>[正妹] 藥學系</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1655943768.A.509.html'>[正妹] 牧野真莉愛</a><br/>
 
 
 <邮件内容区结束

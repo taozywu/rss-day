@@ -1,12 +1,8 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-24 11:10:56 <br/>
+Rss num: 0  Date: 2022-06-25 11:07:53 <br/>
 
-<a href='http://www.zhihu.com/question/22877999/answer/2469176830?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>去大连旅游，有什么推荐的攻略？</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656039271.A.687.html'>[正妹] LA 黑人妹子</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656036706.A.131.html'>[正妹] 史丹佛女籃當家中鋒 Cameron Brink</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656033293.A.D90.html'>[正妹] 愛跳舞的diva</a><br/>
 
 
 <邮件内容区结束

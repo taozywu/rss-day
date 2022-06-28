@@ -1,11 +1,10 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-27 11:15:25 <br/>
+Rss num: 0  Date: 2022-06-28 11:10:01 <br/>
 
-<a href='https://movie.douban.com/review/14478586/'>从梦华录争议谈涉女性题材电视剧处境、泛女权区扩大及女性觉醒 (评论: 梦华录)</a><br/>
-<a href='https://movie.douban.com/review/14478658/'>以女权之名，行厌女之事 (评论: 梦华录)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656293247.A.626.html'>[正妹] 認真嘍～</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1656384743.A.D1E.html'>[正妹] 長壽的秘訣</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1656375203.A.C41.html'>[正妹] 栗山莉緒</a><br/>
 
 
 <邮件内容区结束

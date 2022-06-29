@@ -1,10 +1,11 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-06-28 11:10:01 <br/>
+Rss num: 0  Date: 2022-06-29 11:18:16 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656384743.A.D1E.html'>[正妹] 長壽的秘訣</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656375203.A.C41.html'>[正妹] 栗山莉緒</a><br/>
+<a href='http://www.zhihu.com/question/535590151/answer/2549845417?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>有什么事情是只有漫画这一媒介能做到的?</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1656471641.A.CBE.html'>[正妹] 下泳池嘍～</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1656467012.A.351.html'>[正妹] 玩鳥的女人</a><br/>
 
 
 <邮件内容区结束

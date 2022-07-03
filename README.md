@@ -1,12 +1,9 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-02 11:13:03 <br/>
+Rss num: 0  Date: 2022-07-03 11:07:55 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656731003.A.AD4.html'>[正妹] Mina Ahego</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656724199.A.4B6.html'>[正妹] （微肉）能美真奈</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656723309.A.E7E.html'>[神人] One Boy女模特兒</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656721142.A.5BA.html'>[正妹] 泰國</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1656816098.A.98F.html'>[神人] 台味濃</a><br/>
 
 
 <邮件内容区结束

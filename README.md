@@ -1,9 +1,10 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-03 11:07:55 <br/>
+Rss num: 0  Date: 2022-07-04 11:18:10 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656816098.A.98F.html'>[神人] 台味濃</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1656899412.A.1F0.html'>[正妹] 好大的眼睛</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1656898803.A.8DB.html'>[正妹] 高聳的山</a><br/>
 
 
 <邮件内容区结束

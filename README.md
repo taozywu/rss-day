@@ -1,10 +1,12 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-05 11:14:11 <br/>
+Rss num: 0  Date: 2022-07-06 11:21:06 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656987877.A.344.html'>[正妹] 有柴慎入</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1656987611.A.5E9.html'>[正妹] 泳裝</a><br/>
+<a href='http://www.zhihu.com/question/364784408/answer/2560741493?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>甘肃省甘南州值得一去吗？</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1657074004.A.816.html'>[正妹] 藍眼睛</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1657073327.A.96A.html'>[正妹] 有OP嗎？</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1657070958.A.607.html'>[正妹] 運動型黑黑的</a><br/>
 
 
 <邮件内容区结束

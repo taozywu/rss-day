@@ -1,10 +1,9 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-08 11:10:36 <br/>
+Rss num: 0  Date: 2022-07-09 10:56:42 <br/>
 
-<a href='http://www.zhihu.com/question/25984519/answer/2564215888?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>FPS类游戏如何研究它的数值？</a><br/>
-<a href='https://movie.douban.com/review/14500584/'>神仙打架，狂飙演技，这国产新片光阵容就狂打五星！ (评论: 地球最后的导演)</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1657327510.A.498.html'>[正妹] 湊崎</a><br/>
 
 
 <邮件内容区结束

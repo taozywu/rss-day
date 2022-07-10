@@ -1,9 +1,8 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-09 10:56:42 <br/>
+Rss num: 0  Date: 2022-07-10 11:10:29 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1657327510.A.498.html'>[正妹] 湊崎</a><br/>
 
 
 <邮件内容区结束

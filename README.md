@@ -1,11 +1,12 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-11 11:10:12 <br/>
+Rss num: 0  Date: 2022-07-12 11:25:44 <br/>
 
-<a href='http://www.zhihu.com/question/539023926/answer/2561210507?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>为什么绿豆汤有时煮完是绿色有时煮完是红色？什么因素影响了汤的颜色？</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1657505627.A.9C4.html'>[正妹] 有點鄰家女孩感</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1657503448.A.416.html'>[帥哥] Novak Djokovic</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1657595064.A.FD2.html'>[正妹] 拆禮物囉</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1657591629.A.500.html'>[正妹] のんちゃん vs. みーちゃん</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1657591280.A.355.html'>[正妹] Twice</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1657588541.A.013.html'>[正妹] 非常律師禹英禑女配角 朱玄英</a><br/>
 
 
 <邮件内容区结束

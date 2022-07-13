@@ -1,12 +1,13 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-12 11:25:44 <br/>
+Rss num: 0  Date: 2022-07-13 11:13:02 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1657595064.A.FD2.html'>[正妹] 拆禮物囉</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1657591629.A.500.html'>[正妹] のんちゃん vs. みーちゃん</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1657591280.A.355.html'>[正妹] Twice</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1657588541.A.013.html'>[正妹] 非常律師禹英禑女配角 朱玄英</a><br/>
+<a href='https://movie.douban.com/review/14510913/'>《风骚律师》S6E8：或为刀俎，或为鱼肉 (评论: 风骚律师 第六季)</a><br/>
+<a href='https://movie.douban.com/review/14510865/'>隐入尘烟——麦子的悲歌 (评论: 隐入尘烟)</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1657676435.A.8E7.html'>[正妹] 神秘黑口罩</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1657673889.A.3F8.html'>[正妹] 寶島魚很大</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1657673579.A.230.html'>[神人] 內衣模特兒</a><br/>
 
 
 <邮件内容区结束

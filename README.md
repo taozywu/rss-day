@@ -1,12 +1,11 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-16 11:03:32 <br/>
+Rss num: 0  Date: 2022-07-17 11:14:06 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1657935451.A.B98.html'>[正妹] 師大音樂系 深藏不露</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1657935364.A.1E9.html'>[正妹] 媽媽真偉大</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1657934770.A.68A.html'>[正妹] 要吃兩碗</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1657934632.A.AE5.html'>[正妹] 三張還可以</a><br/>
+<a href='https://movie.douban.com/review/14518317/'>《隐入尘烟》: “又苦又善良” (评论: 隐入尘烟)</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658026058.A.0FC.html'>[正妹] 書法</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658017818.A.40E.html'>[正妹] 不要玩西瓜</a><br/>
 
 
 <邮件内容区结束

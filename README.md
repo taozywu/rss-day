@@ -1,11 +1,11 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-17 11:14:06 <br/>
+Rss num: 0  Date: 2022-07-18 11:12:33 <br/>
 
-<a href='https://movie.douban.com/review/14518317/'>《隐入尘烟》: “又苦又善良” (评论: 隐入尘烟)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658026058.A.0FC.html'>[正妹] 書法</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658017818.A.40E.html'>[正妹] 不要玩西瓜</a><br/>
+<a href='https://movie.douban.com/review/14520560/'>《风骚律师》之镜头篇(2)：玛利亚的开关 (评论: 风骚律师 第六季)</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658113853.A.413.html'>[正妹] ウナキ サヤカ</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658113103.A.F08.html'>[正妹] 廣末涼子 生日快樂</a><br/>
 
 
 <邮件内容区结束

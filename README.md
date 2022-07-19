@@ -1,11 +1,12 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-18 11:12:33 <br/>
+Rss num: 0  Date: 2022-07-19 11:26:53 <br/>
 
-<a href='https://movie.douban.com/review/14520560/'>《风骚律师》之镜头篇(2)：玛利亚的开关 (评论: 风骚律师 第六季)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658113853.A.413.html'>[正妹] ウナキ サヤカ</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658113103.A.F08.html'>[正妹] 廣末涼子 生日快樂</a><br/>
+<a href='http://www.zhihu.com/question/531636893/answer/2581204912?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>瓶装、罐装和桶装啤酒有什么差异，你更爱哪种？</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658200049.A.0ED.html'>[正妹] 想一起吃</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658192297.A.2AB.html'>[正妹] 不想努力了</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658190586.A.A2B.html'>[正妹] 樂樂（JVID）</a><br/>
 
 
 <邮件内容区结束

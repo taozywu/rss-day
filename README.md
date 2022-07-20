@@ -1,12 +1,12 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-19 11:26:53 <br/>
+Rss num: 0  Date: 2022-07-20 11:12:35 <br/>
 
-<a href='http://www.zhihu.com/question/531636893/answer/2581204912?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>瓶装、罐装和桶装啤酒有什么差异，你更爱哪种？</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658200049.A.0ED.html'>[正妹] 想一起吃</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658192297.A.2AB.html'>[正妹] 不想努力了</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658190586.A.A2B.html'>[正妹] 樂樂（JVID）</a><br/>
+<a href='http://zhuanlan.zhihu.com/p/543127242?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>【塔山之石】塔勒布比特币黑皮书</a><br/>
+<a href='https://movie.douban.com/review/14524861/'>《风骚律师》S6E9：“玩乐”与“真爱” (评论: 风骚律师 第六季)</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658280459.A.E0F.html'>[帥哥] 大谷翔平</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658278907.A.07E.html'>[神人] 詢問街拍女模</a><br/>
 
 
 <邮件内容区结束

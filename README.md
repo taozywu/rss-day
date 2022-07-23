@@ -1,11 +1,9 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-22 11:19:00 <br/>
+Rss num: 0  Date: 2022-07-23 11:06:51 <br/>
 
-<a href='http://www.zhihu.com/question/538819628/answer/2577233731?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title'>精酿啤酒的口感是不是比普通啤酒好，为什么？</a><br/>
-<a href='https://movie.douban.com/review/14528783/'>你相信人性吗 (评论: 月球天堂)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658455190.A.D56.html'>[正妹] 光天化日下劈腿</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658536628.A.F3E.html'>[神人] 觀音佛祖女乩童</a><br/>
 
 
 <邮件内容区结束

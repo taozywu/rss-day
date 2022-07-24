@@ -1,9 +1,9 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-23 11:06:51 <br/>
+Rss num: 0  Date: 2022-07-24 11:12:42 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658536628.A.F3E.html'>[神人] 觀音佛祖女乩童</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658631713.A.148.html'>[正妹] 台大國發所研究生張舒萍</a><br/>
 
 
 <邮件内容区结束

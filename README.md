@@ -1,9 +1,10 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-24 11:12:42 <br/>
+Rss num: 0  Date: 2022-07-25 11:16:15 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658631713.A.148.html'>[正妹] 台大國發所研究生張舒萍</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658714972.A.3B2.html'>[正妹] 多組中文音樂圈的樂團成員</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658714372.A.0FE.html'>[正妹] 苗條清新</a><br/>
 
 
 <邮件内容区结束

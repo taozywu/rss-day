@@ -1,10 +1,11 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-25 11:16:15 <br/>
+Rss num: 0  Date: 2022-07-26 11:31:09 <br/>
 
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658714972.A.3B2.html'>[正妹] 多組中文音樂圈的樂團成員</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658714372.A.0FE.html'>[正妹] 苗條清新</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658805557.A.9EA.html'>[正妹] 一張</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658800418.A.9AA.html'>[正妹] 韓國人</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658799450.A.4AB.html'>[正妹] 佐藤芹菜</a><br/>
 
 
 <邮件内容区结束

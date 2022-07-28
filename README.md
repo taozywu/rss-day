@@ -1,13 +1,14 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-27 11:19:53 <br/>
+Rss num: 0  Date: 2022-07-28 11:13:07 <br/>
 
-<a href='https://movie.douban.com/review/14538307/'>《风骚律师》S6E10：回归的力量 (评论: 风骚律师 第六季)</a><br/>
-<a href='https://movie.douban.com/review/14538448/'>《超体》影评 (评论: 超体)</a><br/>
-<a href='https://movie.douban.com/review/14538294/'>一到七季的铁粉，5星改3星了，自己想去吧！ (评论: 王牌对王牌 第七季)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658887474.A.425.html'>[神人] 九族文化村2022夏季廣告</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658880362.A.0CD.html'>[正妹] 好熱</a><br/>
+<a href='https://movie.douban.com/review/14540235/'>《迷航昆仑墟》超出我的预期 (评论: 迷航昆仑墟)</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658973737.A.3A8.html'>[正妹] 臭臉 熊貓廣告</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658972283.A.401.html'>[正妹] 學校教師</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658971302.A.539.html'>[正妹] 可愛的萊恩</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658970924.A.68E.html'>[神人] 某女來賓</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1658970075.A.E0F.html'>[正妹] 這麼可愛一定是....</a><br/>
 
 
 <邮件内容区结束

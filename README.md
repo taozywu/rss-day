@@ -1,14 +1,11 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-28 11:13:07 <br/>
+Rss num: 0  Date: 2022-07-29 11:24:21 <br/>
 
-<a href='https://movie.douban.com/review/14540235/'>《迷航昆仑墟》超出我的预期 (评论: 迷航昆仑墟)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658973737.A.3A8.html'>[正妹] 臭臉 熊貓廣告</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658972283.A.401.html'>[正妹] 學校教師</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658971302.A.539.html'>[正妹] 可愛的萊恩</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658970924.A.68E.html'>[神人] 某女來賓</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1658970075.A.E0F.html'>[正妹] 這麼可愛一定是....</a><br/>
+<a href='https://movie.douban.com/review/14542066/'>绝望到让人高山仰止 (评论: 十三个月亮)</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1659060812.A.C6B.html'>[正妹] 中國女子</a><br/>
+<a href='https://www.ptt.cc/bbs/Beauty/M.1659056384.A.7BC.html'>[正妹] Lucy 黃昱璇</a><br/>
 
 
 <邮件内容区结束

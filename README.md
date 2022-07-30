@@ -1,11 +1,8 @@
 # Rss day
 
 邮件内容区开始>
-Rss num: 0  Date: 2022-07-29 11:24:21 <br/>
+Rss num: 0  Date: 2022-07-30 11:14:29 <br/>
 
-<a href='https://movie.douban.com/review/14542066/'>绝望到让人高山仰止 (评论: 十三个月亮)</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1659060812.A.C6B.html'>[正妹] 中國女子</a><br/>
-<a href='https://www.ptt.cc/bbs/Beauty/M.1659056384.A.7BC.html'>[正妹] Lucy 黃昱璇</a><br/>
 
 
 <邮件内容区结束
